@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-09T20:07:54.607Z",
+  "timestamp": "2025-04-09T20:30:36.975Z",
   "steps": {
     "planGenerated": false,
     "componentsGenerated": false,
@@ -9,6 +9,6 @@
     "deploymentStarted": false,
     "deploymentComplete": false
   },
-  "deployedUrl": null,
+  "deployedUrl": "webis-site-byt-kph-byta-1744229274539-cnlza3ab1.vercel.app",
   "error": null
 }
