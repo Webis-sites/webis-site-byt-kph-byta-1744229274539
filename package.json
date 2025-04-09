@@ -11,7 +11,11 @@
   "dependencies": {
     "next": "^15.2.5",
     "react": "^19.1.0",
-    "react-dom": "^19.1.0"
+    "react-dom": "^19.1.0",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.0",
+    "tailwind-merge": "^2.2.0",
+    "lucide-react": "^0.302.0"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
