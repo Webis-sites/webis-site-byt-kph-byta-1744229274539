@@ -9,7 +9,13 @@
       --background-end-rgb: 255, 255, 255;
       --primary-color: #4ECDC4;
       --secondary-color: #588C7E;
-    }
+    
+  --shadow-neumorphic: 6px 6px 12px rgba(0, 0, 0, 0.1), -6px -6px 12px rgba(255, 255, 255, 0.8);
+  --shadow-neumorphic-hover: 8px 8px 16px rgba(0, 0, 0, 0.1), -8px -8px 16px rgba(255, 255, 255, 0.8);
+  --shadow-neumorphic-pressed: inset 2px 2px 5px rgba(0, 0, 0, 0.1), inset -2px -2px 5px rgba(255, 255, 255, 0.8);
+  --border-radius: 0.75rem;
+  --transition-duration: 0.3s;
+}
 
     html {
       scroll-behavior: smooth;
