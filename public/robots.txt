@@ -1,0 +1,7 @@
+
+    # robots.txt for בית קפה ביתא
+    User-agent: *
+    Allow: /
+
+    # Sitemap
+    Sitemap: https://בית-קפה-ביתא.com/sitemap.xml
